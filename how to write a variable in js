@@ -1,0 +1,2 @@
+const myvariable = 'this is a string variable';    /dis is declaration
+console.log(myvariable);     /here is how you print a variable!!
