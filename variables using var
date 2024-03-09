@@ -1,0 +1,6 @@
+var myvariable = 10;
+undefined
+var myvariable = 20
+undefined
+myvariable
+20 
