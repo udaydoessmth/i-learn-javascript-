@@ -1,0 +1,10 @@
+const newvariable = 'hello world';
+undefined
+let anothervariable = 20
+undefined
+let variablenew;
+undefined
+variablenew = 30
+30
+console.log(variablenew);
+30
