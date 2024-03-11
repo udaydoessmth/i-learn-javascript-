@@ -1,0 +1,4 @@
+const objectvariable = { prop1: 10, prop2: 20, prop3: 30};
+console.log(objectvariable.prop2)//this is how u access elements of object
+ 
+ //output: 20
