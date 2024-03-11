@@ -1,0 +1,5 @@
+const variable1 = '10';
+const variable2 = 30;
+console.log(variable1 + variable2);
+console.log("this is not the desired output as variable1 is in string and variable2 is an integer datatype, so what you do is TYPECAST or do it explicitly and this is how you do it:");
+console.log(Number(variable1) +  variable2);
