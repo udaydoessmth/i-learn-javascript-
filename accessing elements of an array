@@ -1,0 +1,4 @@
+//you can pass on any value inside of an array just like u do in c lang
+const array1 = [10,20,30,40,50]; //the first element of any array has index 0 and it works dis way
+console.log(array1[3]);
+//for example ive printed the element of index number 3, and the output i got is 40!!
