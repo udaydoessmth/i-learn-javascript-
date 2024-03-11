@@ -1,0 +1,9 @@
+const nestedobject = { layer1: 
+{ layer2: 
+{ layer3: 
+{ targetvalue: 39 
+      }
+     }
+  }
+}
+console.log(nestedobject.layer1.layer2.layer3.targetvalue);
