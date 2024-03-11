@@ -1,0 +1,5 @@
+const variable2 = 'my name is ';
+const variable3 = 'Pupu';
+const variable4 = 'Pusu';
+const variable1 = variable2 + variable3;
+console.log(variable1);
