@@ -1,0 +1,5 @@
+const firstarray = [10,20,30,40,50];
+console.log(firstarray)
+console.log('you can store stuff of any datatype inside of an array');
+const secondarray = [1,2,'this is a string',[10,20,30]];
+console.log(secondarray)
