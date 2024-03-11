@@ -1,0 +1,4 @@
+const newvariable = 'string1';
+console.log(newvariable);
+const newvariable1 = "this is string 2"
+console.log(newvariable1)
